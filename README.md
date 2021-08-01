@@ -11,9 +11,9 @@
 #### What is this lib?
 Python API to easily connect capture chat servers
 #### How to install?
-`python3 -m pip install amino.py`
+`python3 -m pip install capture.py`
 
-- **TO FOCUS!:** Make sure you type `captures` **Not** `capture`
+- **TO FOCUS!:** Make sure you type `capture.py` **Not** `capture`
 ###
 #### API Reference documentation
 
